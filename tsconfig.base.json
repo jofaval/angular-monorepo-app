@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@angular-monorepo-app/architecture": ["libs/architecture/src/index.ts"]
+      "@angular-monorepo-app/architecture": ["libs/architecture/src/index.ts"],
+      "@angular-monorepo-app/query": ["libs/query/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
