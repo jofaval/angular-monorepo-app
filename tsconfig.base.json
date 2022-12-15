@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@angular-monorepo-app/architecture": ["libs/architecture/src/index.ts"],
+      "@angular-monorepo-app/components": ["libs/components/src/index.ts"],
       "@angular-monorepo-app/query": ["libs/query/src/index.ts"]
     }
   },

@@ -1,0 +1,8 @@
+{
+  "name": "@angular-monorepo-app/components",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "storybook": "^6.5.14"
+  }
+}
